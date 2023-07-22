@@ -14,11 +14,11 @@
 
 I'm a front-end developer who cares about designing and coding apps/sites that are accessible, functional, and delightful to use.
 
-- 🌦 I'm learning React through two projects currently: a weather app that renders the weather/forecast of any city in real-time and a dictionary app.
+- 🌦 I'm learning React + sharpening my JS skills using p5.js!
 
 - 🌀 I like reading about sustainable design in the tech world and in other industries (such as textiles & fashion).
 
-- 🐶 In my free time, I play with my dog, do martial arts, and dabble in embroidery.
+- 🐶 In my free time, I play with my dog, draw in Procreate, and cook!
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stephanie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephaniemsparra/)
 
